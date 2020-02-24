@@ -1,5 +1,5 @@
 # Scriptor
-A PowerShell script organization / execution tool
+### A PowerShell script organization / execution tool
 
 SCRIPTOR allows you to organize your PowerShell scrips into a Windows folder structure with folders becoming sub-menus and the scripts in those folders becoming menu items.
 
@@ -20,4 +20,4 @@ PowerShell Script Modules can be placed in the `'\scripts\#modules\'` folder in 
 
 -----------------------------------------------------------------------------
 
-### SCRIPTOR must be run from the Desktop version of PowerShell as an Administrator.
+#### SCRIPTOR must be run from the Desktop version of PowerShell as an Administrator.
