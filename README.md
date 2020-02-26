@@ -19,5 +19,3 @@ To pass parameters:
 PowerShell Script Modules can be placed in the `'\scripts\#modules\'` folder in order to hide them from the SCRIPTOR user interface if they are not designed to be executed by the user.
 
 -----------------------------------------------------------------------------
-
-#### SCRIPTOR must be run from the Desktop version of PowerShell as an Administrator.
