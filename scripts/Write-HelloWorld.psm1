@@ -10,4 +10,10 @@
 '@
 function Invoke-Main {
     Write-Host $text
+
+    Write-Host @'
+    This is an example of a PowerShell Script Module.
+
+    You can write your own by following the instructions in the README.md in the root of the SCRIPTOR folder.
+'@
 }
